@@ -33,9 +33,13 @@ Purpose:
 Village Tracts, Villages and Wards layer have been merged as 3 different layers of the same geopackage to allow the creation of temporary layers via SQL queries.
 
 
-Warnung:
+## Warnung:
 Please fill out the Variables.txt before running this program.
+
 Please check the requirements file to make sure you meet the necessary dependencies to run this program. Otherwise, open command prompt and: pip install -r "C:\path\to\requirements.txt"
+
 You will need Microsoft Excel.
+
 You will need browser automation software. If you use Chrome please get it [here](https://chromedriver.storage.googleapis.com/index.html?path=102.0.5005.61/) or if you prefer Firefox you can find it [here](https://github.com/mozilla/geckodriver/releases/tag/v0.31.0).
+
 You can find gdal for windows [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal). Pick the version according to your currently installed Python version and Windows architecture, most likely 64 bit. After that just go to command prompt and: pip install "C:\path\to\this wheel file.whl"
