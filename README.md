@@ -1,4 +1,8 @@
-﻿During my master [thesis](https://estudogeral.uc.pt/handle/10316/99470) I had to obtain, clean and store geographic data on Myanmar.
+# Myanmar Scripts (FINISH README!!!!)
+
+
+
+During my master [thesis](https://estudogeral.uc.pt/handle/10316/99470) I had to obtain, clean and store geographic data on Myanmar.
 Hence, I designed python procedures to automate these tasks, trying to adapt them to any geographical context as best I could.
 
 
