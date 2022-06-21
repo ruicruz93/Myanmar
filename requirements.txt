@@ -1,0 +1,6 @@
+hdx-python-api
+requests
+psycopg2
+selenium==3.141.0
+chardet
+openpyxl
