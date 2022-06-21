@@ -21,7 +21,8 @@ Because this particular section of MIMU’s website was made up of dynamic Javas
 
 
 toGeoPackage.py
-Given that large amounts of data were obtained from the previous procedure, I found it useful to work only with the portions of it pertaining to a specific area in the state of Rakhine, the township of Sittwe (စစ်တွေမြို့နယ်), a costal area not only prone to flooding, but also home to quite a few Rohingya shelters that house members of this ethnic group that did not migrate to Cox’s Bazar, in Bangladesh. 
+Given that large amounts of data were obtained from the previous procedure, I found it useful to work only with the portions of it pertaining to a specific area in the state of Rakhine, the township of Sittwe (စစ်တွေမြို့နယ်), a costal area not only prone to flooding, but also home to quite a few Rohingya shelters that house members of this ethnic group that did not migrate to Cox’s Bazar, in Bangladesh.
+
 For a given directory, with or without intermediate levels, with shp and csv files within, select only those objects or portions of each csv/shp geometrically contained within a reference polygon object, saving said objects in a final geopackage.
 Caveats:
 - Start
